@@ -1,3 +1,2 @@
-# jb
-nbnn
-nknkkk
+# Linux
+#
